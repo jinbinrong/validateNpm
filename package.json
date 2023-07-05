@@ -1,0 +1,14 @@
+{
+  "name": "form-validate",
+  "version": "1.0.0",
+  "description": "常用的表单校验方法和过滤器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jinBr",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
