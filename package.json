@@ -1,6 +1,6 @@
 {
   "name": "form-validate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "常用的表单校验方法和过滤器",
   "main": "index.js",
   "scripts": {
